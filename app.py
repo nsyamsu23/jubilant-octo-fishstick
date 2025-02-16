@@ -97,7 +97,7 @@ with col2:
                 st.markdown(prompt)
             with st.chat_message("assistant"):
                 response = client.chat.completions.create(
-                    model="gpt-4o",
+                    model="gpt-4o-mini",
                     messages=[
                         {"role": "system", "content": """\n
 You are a helpful financial assistant working for Example Co.
