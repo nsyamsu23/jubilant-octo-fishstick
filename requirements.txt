@@ -3,3 +3,4 @@ g4f
 requests
 pandas
 pytz
+curl_cffi
