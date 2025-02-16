@@ -1,0 +1,5 @@
+streamlit
+g4f
+requests
+pandas
+pytz
